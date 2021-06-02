@@ -1,5 +1,4 @@
 # e-CommerceBackEnd
-to build the back end for an e-commerce site
 
 # User Story
 AS A manager at an internet retail company <br>
@@ -10,7 +9,7 @@ SO THAT my company can compete with other e-commerce companies
 
 
 # Description
-
+To build the back end for an e-commerce site utilizing mysql database, sequelize, express.
 <br />
 
 
@@ -27,18 +26,18 @@ SO THAT my company can compete with other e-commerce companies
 
 # Technologies
 * JavaScript
-* MySQL
- * Node.js
+* MySQL2
+ * Sequelize
  * Express.js
 
 # Installation
- After you clone the repository, you have to run   ***npm install***   in your command line to download all the dependencies.
+ After you clone the repository, you have to run   *** NPM INSTALL ***   in your command line to download all the dependencies.
 <br />
 
 # Usage
  Once you install all the dependecies, <br>
- In your command line run   ***node server.js*** <br>
- You should be prompted with a message that reads   <br>
+ In your command line run   *** NPM START *** <br>
+ You should be prompted with a message that reads **App is Listening on Port 3001**  <br>
 <br />
 
 # Contributing
