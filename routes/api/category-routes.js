@@ -15,11 +15,10 @@ router.get('/', async (req, res) => {
         },
       ],
     });
-    res.status(200).json(categoryData);
-  } catch (err) {
-    console.log(err);
-    res.status(500).json(err);
-  }
+   } catch (err) {
+     console.log(err);
+     res.status(500).json(err);
+   }
 });
 
 // find one category by its `id` value
