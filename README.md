@@ -22,7 +22,7 @@ To build the back end for an e-commerce site utilizing mysql database, sequelize
 <br />
 
 # Link to Video
-* [Tutorial Video]()
+* [Tutorial Video](https://www.youtube.com/watch?v=h-UiKfgZriE)
 
 # Technologies
 * JavaScript
@@ -31,12 +31,12 @@ To build the back end for an e-commerce site utilizing mysql database, sequelize
  * Express.js
 
 # Installation
- After you clone the repository, you have to run   *** NPM INSTALL ***   in your command line to download all the dependencies.
+ After you clone the repository, you have to run   **NPM INSTALL**   in your command line to download all the dependencies.
 <br />
 
 # Usage
  Once you install all the dependecies, <br>
- In your command line run   *** NPM START *** <br>
+ In your command line run   **NPM START** <br>
  You should be prompted with a message that reads **App is Listening on Port 3001**  <br>
 <br />
 
